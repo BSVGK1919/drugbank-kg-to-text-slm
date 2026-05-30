@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Variables
+.env
+.env.local
+
+# Zip & compressed files
+*.zip
+*.tar.gz
+*.rar
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Node / Frontend
+node_modules/
+yarn.lock
+.next/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE
+.vscode/
