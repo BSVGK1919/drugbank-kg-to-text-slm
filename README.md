@@ -247,8 +247,6 @@ This project is licensed under the **Apache 2.0 License** — see [LICENSE](LICE
 
 DrugBank data is used under a **university research licence**. See [DrugBank Terms](https://go.drugbank.com/legal/terms_of_service) for usage conditions.
 
-https://nbviewer.org/github/BSVGK1919/drugbank-kg-to-text-slm/blob/main/notebooks/finetuning_LoRA.ipynb
-
 
 ---
 
